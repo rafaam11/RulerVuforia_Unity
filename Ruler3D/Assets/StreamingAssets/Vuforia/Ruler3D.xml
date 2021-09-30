@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
     <Tracking>
-        <ImageTarget name="CubicMarker1.Back" size="0.050000 0.050000"/>
-        <ImageTarget name="CubicMarker1.Right" size="0.050000 0.050000"/>
-        <ImageTarget name="CubicMarker1.Left" size="0.050000 0.050000"/>
-        <ImageTarget name="CubicMarker1.Front" size="0.050000 0.050000"/>
-        <ImageTarget name="CubicMarker1.Top" size="0.050000 0.050000"/>
-        <ImageTarget name="CubicMarker1.Bottom" size="0.050000 0.050000"/>
-        <MultiTarget name="CubicMarker1">
-            <Part name="CubicMarker1.Left" translation="-0.02500000037252903 0 0" rotation="AD: 0 1 0 -90"/>
-            <Part name="CubicMarker1.Right" translation="0.02500000037252903 0 0" rotation="AD: 0 1 0 90"/>
-            <Part name="CubicMarker1.Front" translation="0 0 0.02500000037252903" rotation="AD: 1 0 0 0"/>
-            <Part name="CubicMarker1.Back" translation="0 0 -0.02500000037252903" rotation="AD: 0 1 0 180"/>
-            <Part name="CubicMarker1.Top" translation="0 0.02500000037252903 0" rotation="AD: 1 0 0 -90"/>
-            <Part name="CubicMarker1.Bottom" translation="0 -0.02500000037252903 0" rotation="AD: 1 0 0 90"/>
+        <ImageTarget name="cubic.Back" size="0.040000 0.040000"/>
+        <ImageTarget name="cubic.Right" size="0.040000 0.040000"/>
+        <ImageTarget name="cubic.Left" size="0.040000 0.040000"/>
+        <ImageTarget name="cubic.Front" size="0.040000 0.040000"/>
+        <ImageTarget name="cubic.Top" size="0.040000 0.040000"/>
+        <ImageTarget name="cubic.Bottom" size="0.040000 0.040000"/>
+        <MultiTarget name="cubic">
+            <Part name="cubic.Left" translation="-0.019999999552965164 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="cubic.Right" translation="0.019999999552965164 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="cubic.Front" translation="0 0 0.019999999552965164" rotation="AD: 1 0 0 0"/>
+            <Part name="cubic.Back" translation="0 0 -0.019999999552965164" rotation="AD: 0 1 0 180"/>
+            <Part name="cubic.Top" translation="0 0.019999999552965164 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="cubic.Bottom" translation="0 -0.019999999552965164 0" rotation="AD: 1 0 0 90"/>
         </MultiTarget>
     </Tracking>
 </QCARConfig>
