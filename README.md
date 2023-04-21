@@ -1,2 +1,2 @@
 # RulerVuforia3D
-AR Ruler with vuforia 3D
+AR Ruler with vuforia 3D in Unity
